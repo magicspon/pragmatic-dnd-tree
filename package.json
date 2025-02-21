@@ -1,0 +1,37 @@
+{
+  "name": "tree",
+  "version": "0.0.0",
+  "description": "A simple example deployed using react-codesandboxer",
+  "main": "index.tsx",
+  "dependencies": {
+    "react": "^16.8.0",
+    "@emotion/react": "11.7.1",
+    "memoize-one": "^6.0.0",
+    "tiny-invariant": "^1.2.0",
+    "@atlaskit/pragmatic-drag-and-drop": "1.2.1",
+    "@atlaskit/pragmatic-drag-and-drop-flourish": "1.1.0",
+    "@atlaskit/pragmatic-drag-and-drop-hitbox": "1.0.3",
+    "@atlaskit/pragmatic-drag-and-drop-live-region": "1.0.6",
+    "@atlaskit/pragmatic-drag-and-drop-react-drop-indicator": "1.1.1",
+    "react-dom": "^16.8.0",
+    "@atlaskit/button": "18.1.0",
+    "@atlaskit/dropdown-menu": "12.14.0",
+    "@atlaskit/ds-lib": "2.3.1",
+    "@atlaskit/focus-ring": "1.5.0",
+    "@atlaskit/icon": "22.5.1",
+    "@atlaskit/modal-dialog": "12.14.4",
+    "@atlaskit/form": "10.4.5",
+    "@atlaskit/select": "17.11.4",
+    "@atlaskit/pragmatic-drag-and-drop-docs": "1.1.0",
+    "@atlaskit/css-reset": "latest",
+    "@atlaskit/analytics-next": "^9.2.0",
+    "@atlaskit/app-provider": "latest",
+    "react-scripts-ts": "^2.13.0"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  }
+}
